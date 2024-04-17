@@ -57,23 +57,24 @@
 ## :pushpin: Projects
 ### 1. [GPT를 활용한 메뉴추천 챗봇과 주문 및 웨이팅 플랫폼 서비스](https://github.com/Parkjinew/mealjoy_user)
 >리액트네이티브와 스프링부트를 활용한 앱 개발
+></br>
 >개발 기간: 2024.03.15 ~ 2023.04.15  
 >  
 >기술 스택:  
->Java / Spring Boot / React native / JavaScript
->MySQL 
+>Java / Spring Boot / Mybatis / React native / JavaScript / MySQL 
 >  
 >[프로젝트 상세 설명](https://github.com/Parkjinew/mealjoy_user) 참고
 
 ---
 
 ### 2. [무명예술가들을 위한 C2C 플랫폼 서비스](https://github.com/illhanunjung/Hwado-final)
->무명예술가들을 위한 전자상거래 웹 사이트 
+>무명예술가들을 위한 전자상거래 웹 사이트
+></br>
 >개발 기간: 2024.01.08 ~ 2024.01.24
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Spring / Gradle / HTML / CSS / JavaScript / Mybatis 
+ MySQL / Apach tomcat
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
@@ -81,6 +82,7 @@
 
 ### 3. [야구데이터 분석](https://github.com/JungHyung2/gitio.io)
 >야구 데이터를 분석한 프로젝트
+></br>
 >개발 기간: 2023.11.08 ~ 2023.11.10
 >  
 >기술 스택:  

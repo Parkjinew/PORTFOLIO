@@ -56,7 +56,7 @@
 
 ## :pushpin: Projects
 ### 1. [GPT를 활용한 메뉴추천 챗봇과 주문 및 웨이팅 플랫폼 서비스](https://github.com/Parkjinew/mealjoy_user)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
+>리액트네이티브와 스프링부트를 활용한 앱 개발
 >개발 기간: 2024.03.15 ~ 2023.04.15  
 >  
 >기술 스택:  
@@ -67,9 +67,9 @@
 
 ---
 
-### 2. [무명예술가들을 위한 P2P 플랫폼 서비스](https://github.com/illhanunjung/Hwado-final)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [무명예술가들을 위한 C2C 플랫폼 서비스](https://github.com/illhanunjung/Hwado-final)
+>무명예술가들을 위한 전자상거래 웹 사이트 
+>개발 기간: 2024.01.08 ~ 2024.01.24
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
@@ -80,11 +80,36 @@
 ---
 
 ### 3. [야구데이터 분석](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>야구 데이터를 분석한 프로젝트
+>개발 기간: 2023.11.08 ~ 2023.11.10
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
+
+### :pushpin:스마트인재개발원 언어지능기반 분석서비스모델 개발자과정 참여
+2023.09.27 ~ 2024.04.17
+  - 머신러닝 딥러닝
+  - 전자정부 프레임워크
+  - 스프링, 스프링 부트
+  - HTML, CSS, JavaScript
+  - AWS 서비스 배포
+
+### :pushpin:수상내역
+:trophy:광주정보문화산업진흥원  AI 융합 콘텐츠 공모전 아이디어 부문 - 대상
+:trophy:스마트인재개발원  미니프로젝트(야구데이터 분석) - 우수상
+:trophy:스마트인재개발원  핵심프로젝트(무명 예술가들을 위한 C2C 플랫폼) - 최우수상
+
+
+### :pushpin:보유자격증
+리눅스마스터 2급 2024.03.29
+빅데이터분석기사 2023.12.22
+SQL 개발자 2023.12.15
+정보처리기사 2023.06.09
+
+
+
+

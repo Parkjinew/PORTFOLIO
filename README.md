@@ -1,6 +1,5 @@
 
 # 창의적 사고로 코드의 깊이를 더하는 개발자, 박지뉴입니다.
-
 </br>
 
 ## :pushpin: Intro
@@ -56,7 +55,7 @@
 </div>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/illhanunjung/Hwado-final)
+### 1. [GPT를 활용한 메뉴추천 챗봇과 주문 및 웨이팅 플랫폼 서비스](https://github.com/illhanunjung/Hwado-final)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
@@ -68,7 +67,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [포트폴리오](https://github.com/illhanunjung/Hwado-final)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  

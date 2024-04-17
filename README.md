@@ -67,7 +67,7 @@
 
 ---
 
-### 2. [포트폴리오](https://github.com/illhanunjung/Hwado-final)
+### 2. [무명예술가들을 위한 P2P 플랫폼 서비스](https://github.com/illhanunjung/Hwado-final)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
@@ -79,7 +79,7 @@
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 3. [야구데이터 분석](https://github.com/JungHyung2/gitio.io)
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  

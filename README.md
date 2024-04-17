@@ -55,15 +55,15 @@
 </div>
 
 ## :pushpin: Projects
-### 1. [GPT를 활용한 메뉴추천 챗봇과 주문 및 웨이팅 플랫폼 서비스](https://github.com/illhanunjung/Hwado-final)
+### 1. [GPT를 활용한 메뉴추천 챗봇과 주문 및 웨이팅 플랫폼 서비스](https://github.com/Parkjinew/mealjoy_user)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>개발 기간: 2024.03.15 ~ 2023.04.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Spring Boot / React native / JavaScript
+>MySQL 
 >  
->[프로젝트 상세 설명](https://github.com/illhanunjung/Hwado-final) 참고
+>[프로젝트 상세 설명](https://github.com/Parkjinew/mealjoy_user) 참고
 
 ---
 

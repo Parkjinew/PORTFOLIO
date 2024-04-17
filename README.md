@@ -15,7 +15,6 @@
 
 ## :pushpin: Contact
 - 이메일: p5653900415@gmail.com
-- 블로그: 
 - 깃헙: https://github.com/Parkjinew
 
 </br>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <style>
+            #title {
+                text-align: center;
+            }
+            #content {
+                width: 800px;
+                height: 500px;
+                margin: 0 auto;
+            }
+            #content a {
+                text-decoration: none;
+                color: black;
+            }
+            .nav-item {
+                text-align: center;
+            }
+            #resultFrame {
+                width: 100%;
+                height: 490px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1 id="title">프로젝트명: 아파트 거래데이터 활용 데이터 분석</h1>
+        <table border="1" id="content">
+            <tr>
+                <th class="nav-item">메뉴</th>
+                <td rowspan="8">
+                    <iframe id="resultFrame" frameborder="0" name="resultFrame"></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='1')}}" target="resultFrame">1.분석목표설명</a></td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='2')}}" target="resultFrame">2.분석 방법</a></td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='3')}}" target="resultFrame">3.사용한 라이브러리</a></td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='4')}}" target="resultFrame">4.데이터셋(크롤링)</a></td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='5')}}" target="resultFrame">5.분석 결과 시각화</a></td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='6')}}" target="resultFrame">6.분석 결과 정리</a></td>
+            </tr>
+            <tr>
+                <td class="nav-item"><a href="{{url_for('page', name='7')}}" target="resultFrame">7.데이터 출처</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
